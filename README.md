@@ -2,7 +2,7 @@
 ![Temperature Result](temperature.png)
 
 ## Task 2: Salary Calculator
-![Salary Result](salary.png)
+![Salary Result](Salary.png)
 
 ## Task 3: Triangle Angle Finder
 ![Triangle Result](triangle.png)
