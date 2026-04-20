@@ -1,5 +1,8 @@
-# c-programming-Basics
-Task1: temperature, salary and triangle calculators
+## Task 1: Temperature Converter
+![Temperature Result](temperature.png)
 
-### project output
-![screenshot of my code](
+## Task 2: Salary Calculator
+![Salary Result](salary.png)
+
+## Task 3: Triangle Angle Finder
+![Triangle Result](triangle.png)
