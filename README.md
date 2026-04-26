@@ -6,3 +6,6 @@
 
 ## Task 3: Triangle Angle Finder
 ![Triangle Result](triangle.png)
+
+## Task 4: Simple Grade Calculator
+![grade_output](grade_output.png)
