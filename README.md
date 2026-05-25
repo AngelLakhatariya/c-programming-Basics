@@ -45,3 +45,12 @@
 
 ## frequency
 ![frequency_output](frequency.png)
+
+## calculator
+![calculator_output](calculator.png)
+
+## length finder
+![length_finder](length.png)
+
+## cube generator
+![cube_generator](cube.png)
