@@ -18,3 +18,24 @@
 
 ## Digit Addition
 ![looper3_output](looper3.png)
+
+## pattern 1
+![circlet1_output](circlet1.png)
+
+## pattern 2
+![circlet2_output](circlet2.png)
+
+## pattern 3
+![circlet3_output](circlet3.png)
+
+## pattern 4
+![circlet4_output](circlet4.png)
+
+## pattern 5
+![circlet5_output](circlet5.png)
+
+## pattern 6
+![circlet6_output](circlet6.png)
+
+## pattern 7
+![circlet7_output](circlet7.png)
