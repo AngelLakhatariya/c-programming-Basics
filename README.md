@@ -40,6 +40,12 @@
 ## pattern 7
 ![circlet7_output](circlet7.png)
 
+## array 1
+![array1_output](array1.png)
+
+## array 2
+![array2_output](array2.png)
+
 ## palindrome
 ![palindrome_output](palindrome.png)
 
