@@ -46,6 +46,12 @@
 ## array 2
 ![array2_output](array2.png)
 
+## array 3
+![array3_output](array3.png)
+
+## array 4
+![array4_output](array4.png)
+
 ## palindrome
 ![palindrome_output](palindrome.png)
 
