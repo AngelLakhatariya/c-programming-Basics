@@ -9,3 +9,6 @@
 
 ## Task 4: Simple Grade Calculator
 ![grade_output](grade_output.png)
+
+## Alphabet skipper
+![looper_output](looper1.png)
