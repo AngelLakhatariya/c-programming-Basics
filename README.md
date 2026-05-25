@@ -39,3 +39,9 @@
 
 ## pattern 7
 ![circlet7_output](circlet7.png)
+
+## palindrome
+![palindrome_output](palindrome.png)
+
+## frequency
+![frequency_output](frequency.png)
