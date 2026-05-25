@@ -11,4 +11,10 @@
 ![grade_output](grade_output.png)
 
 ## Alphabet skipper
-![looper_output](looper1.png)
+![looper1_output](looper1.png)
+
+## Digit counter
+![looper2_output](looper2.png)
+
+## Digit Addition
+![looper3_output](looper3.png)
